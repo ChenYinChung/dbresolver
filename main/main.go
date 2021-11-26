@@ -67,11 +67,4 @@ func main() {
 		fmt.Println(p)
 	}
 
-	//var count int64
-	//db.Model(&games).Count(&count)
-	//
-	//fmt.Println("-------------------------")
-	//
-	//fmt.Print(count)
-
 }
