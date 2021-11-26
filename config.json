@@ -1,0 +1,9 @@
+{
+  "Addr": "127.0.0.1",
+  "Port": 5432,
+  "Username": "lottery",
+  "Name": "lottery",
+  "Password": "lottery123",
+  "MaxCon": 200,
+  "MinCon": 5
+}
